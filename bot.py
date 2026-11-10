@@ -30,7 +30,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 if __name__ == '__main__':
     # သင့်ရဲ့ Telegram Bot Token ကို ထည့်ပါ
-    BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+    BOT_TOKEN = "9145514347:AAFDLtg2BvQxfTnOK9whIQ1JnIBM2ZBgwdg"
     
     application = ApplicationBuilder().token(BOT_TOKEN).build()
     
